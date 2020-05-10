@@ -1,5 +1,5 @@
-#Suma, resta, multiplicacion, division, raiz cuadrada y exponentes
 from math import sqrt
+
 def menuPrincipal():
 
     print("Calculadora:\n")
